@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	 System.out.println("enter your age");
  byte age = sc.nextByte();
  System.out.println("My age is"+age);
+ System.out.println("my id is"+1111);
+ System.out.println("my phone is"+98765443);
 	
 }
 }
