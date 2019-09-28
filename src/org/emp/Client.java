@@ -12,7 +12,9 @@ public static void main(String[] args) {
  byte age = sc.nextByte();
  System.out.println("My age is"+age);
  System.out.println("my id is"+1111);
- System.out.println("my phone is"+98765443);
+ System.out.println("my phon"+979135775);
+ 
+ 
 	
 }
 }
